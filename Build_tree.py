@@ -5,7 +5,7 @@ out=sys.argv[2]
 
 def cdhit_meta(db,out):
     
-    #hello
+    
     
     # pipeline.py input.fasta  out.fa
 
